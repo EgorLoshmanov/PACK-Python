@@ -1,0 +1,2 @@
+length = int(input())
+
