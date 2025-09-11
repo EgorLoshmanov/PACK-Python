@@ -1,5 +1,5 @@
-from os import *
+import os
 
-for root, dirs, files in walk('.'):
+for root, dirs, files in os.walk('.'):
     for i in files:
-        print(path.abspath(path.join(root, i)))
+        print(os.path.abspath(os.path.join(root, i)))

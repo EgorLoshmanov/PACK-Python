@@ -1,4 +1,3 @@
-# от 1 до 10 ** 10
 from random import randint
 
 lst = []
