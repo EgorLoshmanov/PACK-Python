@@ -1,0 +1,53 @@
+# ===============================
+#  VS Code settings
+# ===============================
+.vscode/
+*.code-workspace
+
+# ===============================
+#  Python virtual environments
+# ===============================
+.venv/
+venv/
+env/
+ENV/
+
+# ===============================
+#  Python cache / compiled files
+# ===============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ===============================
+#  Jupyter Notebook checkpoints
+# ===============================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ===============================
+#  Logs / temp / misc
+# ===============================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# ===============================
+#  Build artifacts
+# ===============================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ===============================
+#  System files
+# ===============================
+.DS_Store
+
+lections/
