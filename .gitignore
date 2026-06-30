@@ -1,8 +1,9 @@
 # ===============================
-#  VS Code settings
+#  IDE settings
 # ===============================
 .vscode/
 *.code-workspace
+.idea/
 
 # ===============================
 #  Python virtual environments
